@@ -1,4 +1,4 @@
-# corta.lo
+# corta.la
 
 Proyecto de flutter que consume la API de [CleanURI](https://cleanuri.com/docs) para cortar una URL.
 
